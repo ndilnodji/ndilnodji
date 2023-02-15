@@ -1,16 +1,18 @@
-### Hi there 👋
+### salut tout le monde 👋
+ 
+je m'appelle ndilnodji djimadoumbaye,je suis un etudiant developpeur data chez simplon.co a travers le projet tech4tchad,je suis egalement un entrepreneur a mi-temps en BTP.je suis un pasionne des data sciences et de l'intelligence artificielle,j'aime faire egalement du developpement web et mobile.
+<!--**ndilnodji/ndilnodji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--
-**ndilnodji/ndilnodji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+voici une presentation formelle: 
 
-Here are some ideas to get you started:
+- 🔭 je suis actuelement etudiant chez simplon.co et entrepreneur en BTP a mi-temps
+- 🌱 j'apprend actuelement à exploiter les données grace a ma formetion de developpeur data  
+- 👯 j'aimerais collaborer sur des projets portant sur la creation des outils des prises des decisions
+- 🤔je cherche de l'aide pour me perfectionner sur l'utilisation du framework pandas et Numpy
+- 💬 interroger moi sur l'outils git et la plateforme Github
+- 📫 contacter moi sur ndilnojiblaise@gmail.com
+- 😄 je suis un homme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndilnodji&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=ndilnodji&show_icons=true&theme=radical&count_private=true)
+
