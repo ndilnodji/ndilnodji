@@ -10,7 +10,7 @@ voici une presentation formelle:
 - 👯 j'aimerais collaborer sur des projets portant sur la creation des outils des prises des decisions
 - 🤔je cherche de l'aide pour me perfectionner sur l'utilisation du framework pandas et Numpy
 - 💬 interroger moi sur l'outils git et la plateforme Github
-- 📫 contacter moi sur ndilnojiblaise@gmail.com
+- 📫 contacter moi sur **66 72 52 36**
 - 😄 je suis un homme
 - mon Site:www.ndilnodji.github.io
 
