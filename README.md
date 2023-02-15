@@ -12,7 +12,7 @@ voici une presentation formelle:
 - 💬 interroger moi sur l'outils git et la plateforme Github
 - 📫 contacter moi sur ndilnojiblaise@gmail.com
 - 😄 je suis un homme
-- mon Site:ndilnodji.github.io
+- mon Site:www.ndilnodji.github.io
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndilnodji&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=ndilnodji&show_icons=true&theme=radical&count_private=true)
